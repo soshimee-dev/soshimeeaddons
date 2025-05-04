@@ -32,6 +32,7 @@ Reload your modules in game (/ct reload) and then type /sa in chat.
 Enjoy!
 
 <br>
+<br>
 
 Disclaimer:
  - Soshimee addons is not a cheat module as it does not modify packets in anyway
