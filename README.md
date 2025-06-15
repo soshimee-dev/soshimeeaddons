@@ -35,4 +35,4 @@ Enjoy!
 <br>
 
 Disclaimer:
- - Soshimee addons is not a cheat module as it does not modify packets in anyway
+ - Soshimee addons is not a cheat module as it does not modify packets in any way!
